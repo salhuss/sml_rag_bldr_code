@@ -1,12 +1,7 @@
 import streamlit as st
 import tempfile
-from helper import (
-    extract_text_from_pdf,
-    chunk_text,
-    embed_chunks,
-    get_top_k_chunks,
-    generate_answer
-)
+from helper import extract_text_from_pdf, chunk_text,embed_chunks, get_top_k_chunks, generate_answer
+
 
 st.set_page_config(page_title="🏗️ Building Code Helper")
 
