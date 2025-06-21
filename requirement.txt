@@ -1,6 +1,7 @@
 streamlit
 openai
 faiss-cpu
+fitz
 PyMuPDF
 tiktoken
 python-dotenv
