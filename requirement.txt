@@ -1,6 +1,6 @@
 streamlit
 openai
 faiss-cpu
-PyMuPDF
+PyMuPDF==1.26.1
 tiktoken
 python-dotenv
