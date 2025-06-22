@@ -2,6 +2,5 @@ streamlit
 openai
 faiss-cpu
 PyMuPdf
-fitz
 tiktoken
 python-dotenv
