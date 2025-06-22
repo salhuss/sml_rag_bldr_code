@@ -1,4 +1,4 @@
-import PyMuPDF# PyMuPDF
+import pymupdf# PyMuPDF
 
 from openai import OpenAI
 
