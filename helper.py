@@ -1,4 +1,4 @@
-import pymupdf# PyMuPDF
+import pymupdf as fitz# PyMuPDF
 
 from openai import OpenAI
 
